@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SimpleTasks/static/css/main.6664728f.chunk.css",
-    "main.js": "/SimpleTasks/static/js/main.9c4ab38e.chunk.js",
-    "main.js.map": "/SimpleTasks/static/js/main.9c4ab38e.chunk.js.map",
+    "main.css": "/SimpleTasks/static/css/main.6efc0e6d.chunk.css",
+    "main.js": "/SimpleTasks/static/js/main.ce6602de.chunk.js",
+    "main.js.map": "/SimpleTasks/static/js/main.ce6602de.chunk.js.map",
     "runtime-main.js": "/SimpleTasks/static/js/runtime-main.4840aeeb.js",
     "runtime-main.js.map": "/SimpleTasks/static/js/runtime-main.4840aeeb.js.map",
     "static/js/2.ee6fe0dd.chunk.js": "/SimpleTasks/static/js/2.ee6fe0dd.chunk.js",
     "static/js/2.ee6fe0dd.chunk.js.map": "/SimpleTasks/static/js/2.ee6fe0dd.chunk.js.map",
     "index.html": "/SimpleTasks/index.html",
-    "precache-manifest.17ea045cd56a81c6437cd16bcd2575be.js": "/SimpleTasks/precache-manifest.17ea045cd56a81c6437cd16bcd2575be.js",
+    "precache-manifest.f270025bd9a58ba142be2e007b9d5e23.js": "/SimpleTasks/precache-manifest.f270025bd9a58ba142be2e007b9d5e23.js",
     "service-worker.js": "/SimpleTasks/service-worker.js",
-    "static/css/main.6664728f.chunk.css.map": "/SimpleTasks/static/css/main.6664728f.chunk.css.map",
+    "static/css/main.6efc0e6d.chunk.css.map": "/SimpleTasks/static/css/main.6efc0e6d.chunk.css.map",
     "static/js/2.ee6fe0dd.chunk.js.LICENSE.txt": "/SimpleTasks/static/js/2.ee6fe0dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4840aeeb.js",
     "static/js/2.ee6fe0dd.chunk.js",
-    "static/css/main.6664728f.chunk.css",
-    "static/js/main.9c4ab38e.chunk.js"
+    "static/css/main.6efc0e6d.chunk.css",
+    "static/js/main.ce6602de.chunk.js"
   ]
 }
