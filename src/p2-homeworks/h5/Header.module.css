@@ -1,6 +1,60 @@
-.menuButton{
-    width: 50px;
-    height: 50px;
-    background-color: burlywood;
+
+.header {
+    position: relative;
+    left: -270px;
+    transition: left 600ms;
+    color: white;
+    display: inline-flex;
+    justify-content: space-between;
+    align-content: center;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.header a {
+    height: 30px;
+    text-decoration: none;
+    color: white;
+    border: 1px solid transparent;
     border-radius: 4px;
+    font-weight: bold;
+    position: relative;
+    padding: 5px;
+    transition: all 700ms;
+
+
+}
+
+
+.header:hover {
+    left: 0;
+}
+
+.header a:hover{
+    border: 1px solid white;
+
+}
+.activeLink{
+    border: 1px solid white;
+   background-color: royalblue;
+}
+.menuButton {
+
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    border-radius: 4px;
+    display: inline-flex;
+    color: white;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+
+.line {
+
+    border: 2px solid white;
+    border-radius: 2px;
+    align-self: center;
+    width: 90%;
 }

@@ -4,15 +4,15 @@ import HW2 from '../../h2/HW2'
 import HW3 from '../../h3/HW3'
 import HW4 from '../../h4/HW4'
 
-function Junior() {
+function JuniorPlus() {
     return (
         <div>
-            <h2 style={{color:'white'}}>JUNIOR</h2>
+            <h2 style={{color:'white'}}>JUNIOR+</h2>
         </div>
     )
 }
 
-export default Junior
+export default JuniorPlus
 
 // сделайте по аналогии пустые страницы джун и джун+
 // туда будут добавляться следующие дз

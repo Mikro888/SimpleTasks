@@ -1,4 +1,14 @@
 .checkbox {
+    appearance: none;
+    border-radius: 10px;
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    cursor: pointer;
+}
+.checkbox:checked{
+    background-color: black;
+    border:3px solid white;
 
 }
 
